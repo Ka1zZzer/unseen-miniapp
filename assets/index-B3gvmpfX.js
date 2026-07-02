@@ -36,11 +36,14 @@ Error generating stack: `+e.message+`
 Отключить бота можно в любой момент за 5 секунд: Настройки → Telegram Business → Автоматизация чатов → убрать @GetUnseen_Bot. Сразу после отключения бот полностью теряет доступ к твоим сообщениям.`,source:`https://core.telegram.org/bots/business`},{q:`Что после пробного периода?`,a:`Сразу после подключения бота у тебя есть 3 дня бесплатного пробного периода — доступны все функции: сохранение удалённых и отредактированных сообщений, медиафайлов, архив переписки.
 
 Когда пробный период заканчивается, чтобы бот продолжил присылать уведомления, нужно оформить подписку. Есть 3 варианта:
-• 1 месяц — $4.99 (150⭐️)
-• 3 месяца — $9.99 (300⭐️)
-• 1 год — $29.99 (800⭐️)
+• 1 месяц — $4.99 (215⭐️)
+• 3 месяца — $9.99 (430⭐️)
+• 1 год — $29.99 (1150⭐️)
 
-Оплатить можно звёздами Telegram (Stars) прямо в боте, либо картой через Tribute — обе опции доступны на вкладке «Главная».`},{q:`Как сделать архив переписки?`,a:`Команда /archive в чате с ботом запускает создание архива всей твоей сохранённой истории.
+Оплатить можно тремя способами — на вкладке «Главная»:
+• Звёздами Telegram (Stars) прямо в боте — цена в звёздах чуть выше, потому что Telegram удерживает комиссию при выводе
+• Картой через Tribute
+• Криптой (USDT, TON, BTC и другие) через Crypto Pay`},{q:`Как сделать архив переписки?`,a:`Команда /archive в чате с ботом запускает создание архива всей твоей сохранённой истории.
 
 Что происходит: бот собирает все зафиксированные события — все удалённые и отредактированные сообщения, которые успел сохранить — в один CSV-файл. Это таблица, которую можно открыть в Excel, Google Таблицах или любом похожем приложении.
 
@@ -87,11 +90,14 @@ Data (message text, sender, date, media files) is stored on a secured server and
 You can disconnect the bot at any time in 5 seconds: Settings → Telegram Business → Chatbots → remove @GetUnseen_Bot. Right after disconnecting, the bot completely loses access to your messages.`,source:`https://core.telegram.org/bots/business`},{q:`What happens after the trial?`,a:`You get 3 days free right after connecting the bot — every feature is available: saving deleted and edited messages, media files, chat archive.
 
 Once the trial ends, you'll need a subscription to keep getting notifications. There are 3 options:
-• 1 month — $4.99 (150⭐️)
-• 3 months — $9.99 (300⭐️)
-• 1 year — $29.99 (800⭐️)
+• 1 month — $4.99 (215⭐️)
+• 3 months — $9.99 (430⭐️)
+• 1 year — $29.99 (1150⭐️)
 
-You can pay with Telegram Stars right in the bot, or by card via Tribute — both options are on the Home tab.`},{q:`How do I make a chat archive?`,a:`The /archive command in the bot starts building an archive of your whole saved history.
+Three ways to pay — on the Home tab:
+• Telegram Stars right in the bot — priced a bit higher in Stars since Telegram takes a cut on withdrawal
+• Card via Tribute
+• Crypto (USDT, TON, BTC, and others) via Crypto Pay`},{q:`How do I make a chat archive?`,a:`The /archive command in the bot starts building an archive of your whole saved history.
 
 What happens: the bot collects every recorded event — every deleted and edited message it managed to save — into a single CSV file. That's a spreadsheet you can open in Excel, Google Sheets, or similar apps.
 
